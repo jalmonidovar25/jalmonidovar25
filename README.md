@@ -33,8 +33,10 @@
 
 ---
 
-## 📊 GitHub Stats
+---
 
-<img src="https://github-readme-stats.vercel.app/api?username=jalmonidovar25&show_icons=true" />
+## 📈 GitHub Activity
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jalmonidovar25&layout=compact" />
+- 📌 Public Repositories: Available on my profile  
+- 🔄 Actively committing and pushing projects  
+- 🧠 Practicing Git workflow and version control  
