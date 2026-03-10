@@ -6,10 +6,7 @@
 
 📚 Studying Version Control & Collaboration  
 🌎 Learning how to build modern websites with:
-    HTML
-    CSS
-    GitHub
-    VS Code
+    HTML, CSS, GitHub, and VS Code
 
 ---
 
