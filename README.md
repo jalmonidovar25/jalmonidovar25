@@ -33,6 +33,19 @@ I am currently improving my skills in version control, collaboration, and websit
 
 ---
 
+## 🌟 Portfolio
+
+Here are some of the projects I have created while learning web development and version control.
+
+I am continuously improving my skills in:
+
+- Website development
+- Git version control
+- GitHub collaboration
+- Web design principles
+  
+---
+
 ## 📂 Projects
 
 ### 📘 Assignment 3 – GitHub Wiki
@@ -68,10 +81,6 @@ Soon I will publish my personal website using GitHub Pages.
 
 ---
 
----
-
----
-
 ## 💻 Skills
 
 ![HTML](https://img.shields.io/badge/HTML5-ffb6c1?style=for-the-badge&logo=html5&logoColor=black)
@@ -79,3 +88,7 @@ Soon I will publish my personal website using GitHub Pages.
 ![Git](https://img.shields.io/badge/Git-d8bfd8?style=for-the-badge&logo=git&logoColor=black)
 ![GitHub](https://img.shields.io/badge/GitHub-e6e6fa?style=for-the-badge&logo=github&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS%20Code-c7ceea?style=for-the-badge&logo=visual-studio-code&logoColor=black)
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=jalmonidovar25&color=blueviolet)
