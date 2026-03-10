@@ -63,8 +63,12 @@ Soon I will publish my personal website using GitHub Pages.
 
 ---
 
-## 📊 GitHub Stats
+---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jalmonidovar25&show_icons=true)
+## 💻 Skills
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jalmonidovar25&layout=compact)
+![HTML](https://img.shields.io/badge/HTML5-ffb6c1?style=for-the-badge&logo=html5&logoColor=black)
+![CSS](https://img.shields.io/badge/CSS3-b0e0e6?style=for-the-badge&logo=css3&logoColor=black)
+![Git](https://img.shields.io/badge/Git-d8bfd8?style=for-the-badge&logo=git&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-e6e6fa?style=for-the-badge&logo=github&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-c7ceea?style=for-the-badge&logo=visual-studio-code&logoColor=black)
