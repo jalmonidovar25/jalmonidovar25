@@ -63,4 +63,4 @@ Soon I will publish my personal website using GitHub Pages.
 
 ## 📊 GitHub Stats
 
-![Jhoana's GitHub stats](https://github-readme-stats.vercel.app/api?username=jalmonidovar25&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jalmonidovar25&show_icons=true&theme=tokyonight&icon_color=79ff97&title_color=79ff97&text_color=c9d1d9&bg_color=0d1117)
