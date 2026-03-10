@@ -1,6 +1,6 @@
 # Hi 👋 I'm Jhoana Almonidovar
 
-![Profile Banner](https://github.com/github/explore/raw/main/topics/web-development/web-development.png)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:4B0082&height=200&section=header&text=Jhoana%20Almonidovar&fontSize=40&fontColor=ffffff)
 
 💻 Web Development Student  
 📚 Studying Version Control & Collaboration  
