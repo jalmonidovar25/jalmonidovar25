@@ -58,3 +58,9 @@ Soon I will publish my personal website using GitHub Pages.
 ---
 
 ⭐ Thank you for visiting my GitHub profile!
+
+---
+
+## 📊 GitHub Stats
+
+![Jhoana's GitHub stats](https://github-readme-stats.vercel.app/api?username=jalmonidovar25&show_icons=true&theme=tokyonight)
