@@ -2,6 +2,8 @@
 
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:4B0082&height=200&section=header&text=Web%20Development%20Student&fontSize=40&fontColor=ffffff)
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E6E6FA&size=28&center=true&vCenter=true&width=600&lines=Web+Development+Student;Learning+Git+%26+GitHub;Building+Modern+Websites)
+
 📚 Studying Version Control & Collaboration  
 🌎 Learning how to build modern websites with HTML, CSS, and GitHub.
 
