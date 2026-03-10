@@ -1,8 +1,7 @@
 # Hi 👋 I'm Jhoana Almonidovar
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:4B0082&height=200&section=header&text=Jhoana%20Almonidovar&fontSize=40&fontColor=ffffff)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:4B0082&height=200&section=header&text=Web%20Development%20Student&fontSize=40&fontColor=ffffff)
 
-💻 Web Development Student  
 📚 Studying Version Control & Collaboration  
 🌎 Learning how to build modern websites with HTML, CSS, and GitHub.
 
