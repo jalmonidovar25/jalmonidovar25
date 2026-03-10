@@ -35,10 +35,17 @@ I am currently improving my skills in version control, collaboration, and websit
 
 ## 📂 Projects
 
-### Assignment 3 – Wiki Documentation
-A multi‑page project wiki created using GitHub.
+### 📘 Assignment 3 – GitHub Wiki
+A multi‑page documentation project built using GitHub.
 
 🔗 https://github.com/jalmonidovar25/jhoana_vcc_3/wiki
+
+---
+
+### 🌐 Personal Website (Assignment 4)
+My personal website built with HTML and hosted using GitHub Pages.
+
+🚧 Coming soon
 
 ---
 
